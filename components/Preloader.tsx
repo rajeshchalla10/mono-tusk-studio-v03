@@ -18,12 +18,12 @@ const Preloader: React.FC = () => {
         >
           <div className="flex items-center space-x-8">
             <img 
-    src="/images/logo-icon.png"   // <-- path to your icon
+    src="/images/hero.png"   // <-- path to your icon
     alt="Mono Tusk Studios Icon" 
     className="w-24 h-24 pixel-border-accent bg-studio-accent p-2"
   />
             <h1 className="text-5xl md:text-8xl font-black tracking-[-0.05em] text-studio-offwhite serif">
-              MONO TUSK <span className="text-studio-accent">STUDIOS</span>
+              PALM <span className="text-studio-accent">SUGAR</span>
             </h1>
           </div>
         </motion.div>

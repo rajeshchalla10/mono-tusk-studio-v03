@@ -68,11 +68,11 @@ const Navbar: React.FC = () => {
         {/* Brand */}
         <div className="flex items-center space-x-4 group cursor-pointer">
           <div className="w-10 h-10 md:w-14 md:h-14 bg-studio-accent flex items-center justify-center transition-transform duration-500 group-hover:rotate-90 shadow-[0_0_20px_rgba(236,156,26,0.3)]">
-            <span className="text-studio-black font-black text-xl md:text-2xl serif italic">M</span>
+            <span className="text-studio-black font-black text-xl md:text-2xl serif italic">P</span>
           </div>
           <div className="flex flex-col">
             <a href="#" className="text-xl md:text-3xl font-black tracking-tighter serif uppercase text-studio-offwhite group-hover:text-studio-accent transition-colors leading-none">
-              Mono Tusk
+              PALM SUGAR
             </a>
             <span className="pixel-font text-[8px] text-studio-accent/40 tracking-[0.3em] mt-1 hidden sm:block">HERITAGE_STUDIO</span>
           </div>

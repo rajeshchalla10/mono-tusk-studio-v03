@@ -56,7 +56,7 @@ const About: React.FC = () => {
           >
             <div className="max-w-md border-l-2 border-studio-accent/40 pl-8">
               <p className="text-xl text-studio-muted leading-relaxed font-light italic">
-                Mono Tusk Studios: Forging digital relics from Indian heritage.
+                Palm Sugar: Forging digital relics from Indian heritage.
               </p>
             </div>
             <div className="hidden md:block">

@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
               </div>
               <div>
                 <h3 className="text-5xl font-black serif uppercase tracking-tighter text-studio-offwhite leading-none">
-                  Mono Tusk
+                  PALM SUGAR
                 </h3>
                 <span className="pixel-font text-[10px] text-studio-accent tracking-[0.5em] block mt-2">
                   INDIAN_HERITAGE_PRESERVED
@@ -109,7 +109,7 @@ const Footer: React.FC = () => {
               <div className="flex flex-col">
                 <span className="pixel-font text-sm text-studio-accent animate-pulse">● BROADCASTING_STABLE</span>
                 <p className="text-[10px] font-mono text-studio-muted mt-1 opacity-40 uppercase">
-                  Mono Tusk Studios (PVT) LTD. // All Rights Reserved
+                  PALM SUGAR (PVT) LTD. // All Rights Reserved
                 </p>
               </div>
             </div>
